@@ -11,5 +11,8 @@
 ![](Contain_a_and_e.jpg)
 
 ## Query 3: Subset Table employee show Employees whose age is above 1990.
-![](code_year_above_1990.jpg)
+![](year_above_1990-1.jpg)
+
+## Query 4: subset Table employee, show salaries less than 100000 and sort them in ascending order
+![](salary_less_than_one_million.jpg)
 
